@@ -2,7 +2,7 @@
 This is a list of rules so we can all get along
 
 ## Kitchen
-- no dirty dishes in the sink - rinse and put in the dishwasher
+- No dirty dishes in the sink - rinse and put in the dishwasher
 - The first person to remove something from the dishwasher should remove **All** the dishes and put then away
 - Clean up after cooking
 
